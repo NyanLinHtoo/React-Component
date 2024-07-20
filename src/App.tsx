@@ -8,12 +8,12 @@ import Dropdown from "./components/Dropdown/Dropdown";
 const App = () => {
   return (
     <div>
-      {/* <Login /> */}
+      <Login />
       {/* <SignUp /> */}
       {/* <ForgotPassword /> */}
       {/* <ResetPassword /> */}
       {/* <NavBar /> */}
-      <Dropdown />
+      {/* <Dropdown /> */}
     </div>
   );
 };
